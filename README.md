@@ -1,4 +1,4 @@
-# ATT&CK Workbench Deployment
+##--ATT&CK Workbench Deployment--#
 
 This repository contains deployment files for the ATT&CK Workbench, a web application for editing ATT&CK data represented in STIX.
 It is composed of a frontend Single Page App (SPA), a backend REST API, and a database.
